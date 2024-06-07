@@ -1,0 +1,7 @@
+pathlib
+fastapi
+uvicorn
+joblib
+numpy
+pandas
+scikit-learn
